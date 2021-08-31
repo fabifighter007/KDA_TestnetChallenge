@@ -3,7 +3,7 @@
 echo "** Script to add a new Bond to this system **"
 
 
-read -p "dirName: " dirname
+read -p "Unique Folder Name: " dirname
 read -p "bond [key:date]: " bond
 read -p "Privatekey: " private
 read -p "Infura API Token: " infura
